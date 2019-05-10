@@ -1,5 +1,3 @@
-import "./styles.css";
-
 var progresses;
 
 function init() {
